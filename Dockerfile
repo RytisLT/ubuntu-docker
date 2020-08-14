@@ -4,4 +4,5 @@ RUN apt update && apt install -y \
     jq \
     nano \
     curl \
-    iputils-ping
+    iputils-ping \
+    git
