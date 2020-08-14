@@ -7,3 +7,4 @@ Ubuntu docker image with following pre-installed packages
 * nano
 * curl
 * iputils-ping
+* git
