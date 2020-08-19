@@ -5,4 +5,5 @@ RUN apt update && apt install -y \
     nano \
     curl \
     iputils-ping \
-    git
+    git \
+    wget
