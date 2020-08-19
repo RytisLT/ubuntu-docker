@@ -8,3 +8,4 @@ Ubuntu docker image with following pre-installed packages
 * curl
 * iputils-ping
 * git
+* wget
