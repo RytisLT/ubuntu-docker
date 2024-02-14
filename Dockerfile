@@ -6,4 +6,6 @@ RUN apt update && apt install -y \
     curl \
     iputils-ping \
     git \
-    wget
+    wget \
+    dnsutils \
+    telnet
